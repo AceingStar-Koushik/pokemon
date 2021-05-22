@@ -1,0 +1,43 @@
+p{
+    font-family: 'KoHo', sans-serif;
+    font-size: 23px;
+}
+
+.pbox{
+    height: 500px;
+    width: 475px;
+}
+
+body{
+    text-align: center;
+    padding: 75px;
+    background-color: aqua;
+}
+
+.ulbox{
+    position: fixed;
+    top:0;
+    z-index: 3;
+    cursor: pointer;
+    background-color:brown;
+    width: 100%;
+    margin-top: 0px;
+    left: 0;
+    text-decoration: none;
+    color: blanchedalmond;
+}
+
+.links{
+    display: inline;
+    padding: 187px;
+    font-family: serif;
+    font-size: 23px;
+    color: lightgoldenrodyellow;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: blanchedalmond;
+}
+
